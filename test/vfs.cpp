@@ -72,7 +72,7 @@ class TestFS : public Filesystem {
 
 class VFSTest : public SandboxTest {
   CPPUNIT_TEST_SUITE (VFSTest);
-  CPPUNIT_TEST (testOpenFile);
+  //CPPUNIT_TEST (testOpenFile);
   CPPUNIT_TEST (testOpenMissingFile);
   CPPUNIT_TEST_SUITE_END ();
 
