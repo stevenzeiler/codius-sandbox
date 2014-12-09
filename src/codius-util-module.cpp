@@ -1,7 +1,7 @@
 #include "codius-util.h"
 
 #include <v8.h>
-#include <node/node.h>
+#include <node.h>
 #include <vector>
 #include <memory>
 #include <unistd.h>
